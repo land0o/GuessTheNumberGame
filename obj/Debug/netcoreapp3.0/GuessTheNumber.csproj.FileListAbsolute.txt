@@ -1,0 +1,11 @@
+C:\Users\marla\workspace\c#\GuessTheNumber\bin\Debug\netcoreapp3.0\GuessTheNumber.exe
+C:\Users\marla\workspace\c#\GuessTheNumber\bin\Debug\netcoreapp3.0\GuessTheNumber.deps.json
+C:\Users\marla\workspace\c#\GuessTheNumber\bin\Debug\netcoreapp3.0\GuessTheNumber.runtimeconfig.json
+C:\Users\marla\workspace\c#\GuessTheNumber\bin\Debug\netcoreapp3.0\GuessTheNumber.runtimeconfig.dev.json
+C:\Users\marla\workspace\c#\GuessTheNumber\bin\Debug\netcoreapp3.0\GuessTheNumber.dll
+C:\Users\marla\workspace\c#\GuessTheNumber\bin\Debug\netcoreapp3.0\GuessTheNumber.pdb
+C:\Users\marla\workspace\c#\GuessTheNumber\obj\Debug\netcoreapp3.0\GuessTheNumber.csprojAssemblyReference.cache
+C:\Users\marla\workspace\c#\GuessTheNumber\obj\Debug\netcoreapp3.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\marla\workspace\c#\GuessTheNumber\obj\Debug\netcoreapp3.0\GuessTheNumber.AssemblyInfo.cs
+C:\Users\marla\workspace\c#\GuessTheNumber\obj\Debug\netcoreapp3.0\GuessTheNumber.dll
+C:\Users\marla\workspace\c#\GuessTheNumber\obj\Debug\netcoreapp3.0\GuessTheNumber.pdb
